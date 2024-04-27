@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 💬 I have strong communication skills and am known for being a quick learner.
 - 📫 You can reach me via email at 1shreeya2@gmail.com.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreeya34)](https://github.com/anuraghazra/github-readme-stats)
